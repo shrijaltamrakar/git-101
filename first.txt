@@ -24,3 +24,6 @@ commit added add function
 
 git add sub.txt
 commit added substract function
+
+
+adding new stuusss
