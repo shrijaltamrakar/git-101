@@ -10,3 +10,8 @@ develop (development branch) >
   git checkout feature > switch
 
   git checkout -
+
+
+  git push origin <branch_name> //push change to remote 
+  git gill origin <branch_name> //pull change from remote
+  git fetch origin <branch_name> // get the branch from remote which you dont have
