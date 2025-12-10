@@ -2,3 +2,11 @@ main (you dont do anything) > production
 develop (development branch) > 
   > feature branch 
   
+
+  git merge feature 
+
+  git checkout -b feature > create new branch and switch
+
+  git checkout feature > switch
+
+  git checkout -
