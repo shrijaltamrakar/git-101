@@ -1,0 +1,26 @@
+This is for training purpose
+
+
+GIT 
+
+GIT INIT -> initialize the folder with 
+
+> master > main
+
+
+git add 
+git commit 
+
+
+
+add.txt  > add function
+
+sub.txt > sub funtion
+
+git add . > added add and sub function 
+
+git add add.txt 
+commit added add function
+
+git add sub.txt
+commit added substract function
